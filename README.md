@@ -1,4 +1,4 @@
-## Hi there 👋 [!["Buy Me A Coffee"][()](https://www.buymeacoffee.com/nedarta)
+## Hi there 👋
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/nedarta)
 
